@@ -1,2 +1,2 @@
 # zeta-api
-The zeta serverless micro-framework REST API
+A super tiny micro-framework and REST API for Zeta-OS
